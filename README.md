@@ -1,5 +1,3 @@
-# DSA-Guide
-
 # Data Structures and Algorithms Placement Guide for Beginners
 
 ## Data Structures:
